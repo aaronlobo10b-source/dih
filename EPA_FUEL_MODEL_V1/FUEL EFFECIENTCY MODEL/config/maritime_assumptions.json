@@ -1,0 +1,23 @@
+{
+  "currency": "INR",
+  "assumptions_label": "SYNTHETIC / ILLUSTRATIVE INR ASSUMPTIONS, not live market prices",
+  "usd_inr_rate": 85.0,
+  "fx_source": "Illustrative placeholder; replace with a verified rate before operational use.",
+  "fx_as_of_date": null,
+  "fuel_prices_usd_per_tonne": {
+    "hfo": 450.0,
+    "mdo": 750.0,
+    "lng": 600.0,
+    "methanol": 400.0,
+    "green_methanol": 1200.0,
+    "biofuel": 850.0
+  },
+  "fuel_density_kg_per_litre": {
+    "hfo": 0.98,
+    "mdo": 0.84,
+    "lng": 0.45,
+    "methanol": 0.79,
+    "green_methanol": 0.79,
+    "biofuel": 0.88
+  }
+}
